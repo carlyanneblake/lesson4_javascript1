@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Carly Blakey)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to edit the idex.html and add categories,  edit them, and display them using information learned in lesson 4)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that toFixed() shows the number of decimal places .)
+2. (I learned that a local varible is inside a function.)
+3. (I learned that you can either embedd JavaScript in the HTML or via an external file.)
